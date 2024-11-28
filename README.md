@@ -1,11 +1,69 @@
 # Pico11
 
-Welcome to Pico11.
+**Pico11** is a lightweight, streamlined version of Windows 11 designed for performance and simplicity. It minimizes resource usage while retaining essential functionality, making it ideal for low-spec devices or users who prioritize speed and efficiency over additional features.
 
-Pico11 was created as a slimmed down version of windows 11 22H2.
+---
 
-Please report any bugs or new features to add in the issues tab
+## Features
 
-Downloads are in the releases tab.
+- **Minimal System Requirements**: Optimized for devices with limited hardware capabilities.
+- **Debloated**: Unnecessary apps and services have been removed, leaving a clean and efficient OS.
+- **Enhanced Performance**: Reduced startup times, lower RAM usage, and faster overall operation.
+- **Simplified UI**: A decluttered and intuitive interface.
+- **Customizable**: Allows users to tweak settings to suit their needs without unnecessary restrictions.
+- **Gaming Ready**: Includes essential components for a smooth gaming experience without the overhead of non-gaming features. (Xbox services can be reinstalled from the microsoft store).
 
-Thanks - BIGJ
+---
+
+## System Requirements
+
+- **Processor**: 1 GHz or faster with at least two cores.
+- **RAM**: 2 GB (4-8 GB recommended).
+- **Storage**: 10 GB of free space (depending on installation preferences).
+- **Graphics**: DirectX 9 compatible or higher.
+- **Display**: 800x600 minimum resolution.
+
+---
+
+## Installation
+
+1. **Download the ISO**: Obtain the Pico11 ISO from the official repository or trusted source.
+2. **Create Installation Media**: Use tools like [Rufus](https://rufus.ie/) to create a bootable USB drive.
+3. **Boot from USB**:
+   - Restart your computer and access the boot menu (usually by pressing F2, F12, ESC, or DEL during startup).
+   - Select the USB drive as the boot device.
+4. **Follow the Installation Steps**: Complete the installation wizard to set up Pico11 on your device.
+
+---
+
+## What's Removed
+
+- Pre-installed apps like Microsoft Teams and OneDrive.
+- Background services not critical for core operations.
+
+---
+
+## What's Included
+
+- Firefox Browser (More versions coming soon)
+- Core Windows functionality (file explorer, task manager, etc.).
+- Support for essential drivers and peripherals.
+- Windows Update (for security patches).
+- Microsoft Store.
+
+---
+
+## Known Limitations
+
+- Some removed features may require manual reinstallation if needed.
+- Certain updates may not install correctly without manual intervention.
+
+---
+
+## Contributions
+
+We welcome feedback and contributions! If you encounter issues or have suggestions for improvement, feel free to open an issue or pull request.
+
+---
+
+Enjoy the speed and simplicity of **Pico11**!
