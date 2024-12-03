@@ -45,7 +45,6 @@
 
 ## What's Included
 
-- Firefox Browser (More versions coming soon)
 - Core Windows functionality (file explorer, task manager, etc.).
 - Support for essential drivers and peripherals.
 - Windows Update (for security patches).
