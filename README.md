@@ -63,7 +63,7 @@
 ## Support
 
 ### 22H2
-- **Version 1**: Supported ❌  
+- **Version 1**: Supported ❌
   **EOL**: 5/12/24  
 - **Version 1.1**: Supported ✔  Coming soon
   **EOL**: 1/2/24  
