@@ -56,7 +56,27 @@
 
 - Some removed features may require manual reinstallation if needed.
 - Certain updates may not install correctly without manual intervention.
+- Windows 11 24H2 hardware requirments not bypassing correctly (use own workaround if needed).
 
+---
+
+## Support
+
+### 22H2
+- **Version 1**: Supported ❌  
+  **EOL**: 5/12/24  
+- **Version 1.1**: Supported ✔  Coming soon
+  **EOL**: 1/2/24  
+
+
+### 24H2
+- **Version 2**: Supported ✔  
+  **EOL**: TBC 
+
+### ????
+- **Version 3**: ????  
+  **EOL**: ????
+  
 ---
 
 ## Contributions
