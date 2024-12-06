@@ -64,22 +64,23 @@
 
 ### 22H2
 - **Version 1**: Supported ❌  
-  **EOL**: 5/12/24  
+     - **EOL**: 5/12/24  
 - **Version 1.1**: Supported ✔  
-  **Release**: 5/12/24  
-  **EOL**: 1/2/24  
+     - **Release**: 5/12/24  
+     - **EOL**: 1/2/24  
 
 ### 24H2
 - **Version 2**: Supported ✔  
-  **Release**: 5/12/24  
-  **EOL**: 22/12/24  
+     - **Release**: 5/12/24  
+     - **EOL**: 22/12/24  
 - **Version 2.1**: Coming Soon  
-  **Release**: 10-20/12/24  
-  **EOL**: TBC  
+     - **Release**: 10-20/12/24  
+     - **EOL**: TBC  
 
 ### ????
-- **Version 3**: ????  
-  **EOL**: ????
+- **Version 3**: ????
+   - **Release**: ????
+   - **EOL**: ????
   
 ---
 
