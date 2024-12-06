@@ -3,6 +3,9 @@
 **Pico11** is a lightweight, streamlined version of Windows 11 designed for performance and simplicity. It minimizes resource usage while retaining essential functionality, making it ideal for low-spec devices or users who prioritize speed and efficiency over additional features.
 
 ---
+## Website
+[Pico11](https://pico11.pages.dev)
+---
 
 ## Features
 
