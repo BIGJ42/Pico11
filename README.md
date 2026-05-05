@@ -80,12 +80,11 @@
 - **Version 2.1**: Supported ❌  
      - **Release**: 10-20/12/24  
      - **EOL**: 08/05/25
-- **Version 3**: Supported ✔  
+- **Version 3**: Supported ❌  
      - **Release**: 08/05/25  
-     - **EOL**: 08/05/25
-
-### ????
-- **Version 4**: ????
+     - **EOL**: 05/05/26
+### 25H2
+- **Version 4**: Coming Soon!!!
    - **Release**: ????
    - **EOL**: ????
   
